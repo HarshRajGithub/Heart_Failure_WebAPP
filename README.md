@@ -1,9 +1,14 @@
-# Heart Failure Prediction Using XGBoost& Streamlit Web App 💔🩺
-♠ Using a Machine Learning XGboost Classification Model to Predict If The Patient Has Heart Failure or Not From a Features like(Age, Resting Blood Pressure, Cholesterol, Max Heart Rate, Gender, Chest Pain Type, Fasting Blood Sugar, ...)
+# Heart Failure Prediction Using LSTM, Random Forest & Streamlit Web App 💔🩺
+♥ Used LSTM model to Identify the Type of Chest Pain in Patient From -
+   ❊ ATA: Atypical Angina 
+   ❊ NAP: Non-Anginal Pain 
+   ❊ ASY: Asymptomatic 
+   ❊ TA: Typical Angina
+♥ Using a Machine Learning Random Forest Classification Model to Predict If The Patient Has Heart Failure or Not From a Features like(Age, Resting Blood Pressure, Cholesterol, Max Heart Rate, Gender, Chest Pain Type, Fasting Blood Sugar, ...)
 
 ### Web App Link: <a href = "https://heart-failure-prediction-8lygyzhmwy3uctejsac3wj.streamlit.app/" style = "color: tomato">Click Here To Visit Streamlit Web App</a>🥰📊
 
-### Kaggle Notebook For Main Steps: <a href = "https://www.kaggle.com/code/muhammadehabmuhammad/heart-failure-prediction-streamlit-app" target="_blank" style = "color: tomato">Click Here To Visit Kaggle Notebbok</a>🥰📊
+### Colab Notebook For Main Steps: <a href = "https://colab.research.google.com/drive/1AoB4QzpzuhbVhQoXYT-IpuGqKPWcMGlc" target="_blank" style = "color: tomato">Click Here To Visit Colab Notebbok</a>
 
 ## Steps To Create The Model
 #### 🩺 Get quick overview 🤩
@@ -18,10 +23,10 @@
 
 ## Build Streamlit Web App
 
-![image](https://github.com/modyehab810/Heart-Failure-Prediction/assets/114261123/2cbb1641-7271-4d8e-828a-960ed392fab6)
+![image](https://github.com/HarshRajGithub/Heart_Failure_WebAPP/blob/main/imgs/Screenshot%20(633).png)
 
 <hr>
 
-![image](https://github.com/modyehab810/Heart-Failure-Prediction/assets/114261123/ea338423-d2fc-4b37-b266-9bdb11910207)
+![image](https://github.com/HarshRajGithub/Heart_Failure_WebAPP/blob/main/imgs/Screenshot%20(632).png)
 
 
