@@ -23,7 +23,7 @@ def run():
     def load_model(model_path):
         return pd.read_pickle(model_path)
 
-    model = pd.read_pickle("xgboost_heart_disease_detection_v1.pkl")
+    model = pd.read_pickle("ModelRandomForest.pkl")
 
     st.markdown(
         """
