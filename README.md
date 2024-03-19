@@ -20,10 +20,10 @@
 
 ## Build Streamlit Web App
 
-![image](https://github.com/HarshRajGithub/Heart_Failure_WebAPP/blob/main/imgs/Screenshot%20(633).png)
+![image](https://github.com/HarshRajGithub/Heart_Failure_WebAPP/blob/main/imgs/NoInputHFP.png)
 
 <hr>
 
-![image](https://github.com/HarshRajGithub/Heart_Failure_WebAPP/blob/main/imgs/Screenshot%20(632).png)
+![image](https://github.com/HarshRajGithub/Heart_Failure_WebAPP/blob/main/imgs/DefaultOutput.png)
 
 
