@@ -1,4 +1,4 @@
-# Heart Failure Prediction Using LSTM, Random Forest & Streamlit Web App 💔🩺
+# Heart Failure Prediction Using LSTM, Random Forest & Streamlit Web App 🩺💔
 ♥ Used LSTM model to Identify the Type of Chest Pain in Patient From -
 
    ❊ ATA: Atypical Angina 
