@@ -15,14 +15,6 @@
 
 ### Colab Notebook For Main Steps: <a href = "https://colab.research.google.com/drive/1AoB4QzpzuhbVhQoXYT-IpuGqKPWcMGlc" target="_blank" style = "color: tomato">Click Here To Visit Colab Notebbok</a>
 
-## Steps To Create The Model
-#### 🩺 Get quick overview 🤩
-#### 🩺 Checking for duplicates and nulls values 🧹
-#### 🩺 Conducting a little data exploration 🧐
-#### 🩺 Asking a couple of questions and getting insight via charts manner
-#### 🩺 Trying more than model (Random Forest, SVM, XGBoost)
-#### 🩺 Choosing a winning model and fitting the data into our model.🚀
-#### 🩺 Testing our model 😉
 
 <hr>
 
