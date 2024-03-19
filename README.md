@@ -24,6 +24,6 @@
 
 <hr>
 
-![image](https://github.com/HarshRajGithub/Heart_Failure_WebAPP/blob/main/imgs/Screenshot%20(635).png)
+![image](https://github.com/HarshRajGithub/Heart_Failure_WebAPP/blob/main/imgs/Screenshot%20(642).png)
 
 
