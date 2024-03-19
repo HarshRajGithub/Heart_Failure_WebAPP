@@ -242,7 +242,7 @@ def run():
                     st.image("imgs/heartbeat.png",
                              caption="", width=100)
                     if predicted_value == 0:
-                        st.subheader("Expected He Is")
+                        st.subheader("Expected They are")
                         st.subheader(":green[Not a Heart Patient]")
 
                     else:
