@@ -23,7 +23,7 @@ def run():
     def load_model(model_path):
         return pd.read_pickle(model_path)
 
-    model = pd.read_pickle("ModelRandomForest.pkl")
+    model = pd.read_pickle("RandomForestModel.pkl")
 
     st.markdown(
         """
