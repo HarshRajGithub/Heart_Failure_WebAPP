@@ -246,7 +246,7 @@ def run():
                         st.subheader(":green[Not a Heart Patient]")
 
                     else:
-                        st.subheader(f"Expected He Is")
+                        st.subheader(f"Expected They are")
                         st.subheader(":red[Heart Patient]")
 
                     with heart_disease:
