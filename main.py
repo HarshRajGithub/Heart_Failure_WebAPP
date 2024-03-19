@@ -137,7 +137,7 @@ def run():
                 c1, c2, c3 = st.columns(3)
                 with c1:
                     age = st.number_input('Age', min_value=1,
-                                          max_value=90, value=48)
+                                          max_value=90, value=22)
 
                     max_heart_rate = st.number_input('Max Heart Rate', min_value=0,
                                                      max_value=200, value=100)
@@ -172,7 +172,7 @@ def run():
                     fasting_blood_sugar = st.selectbox('Fasting Blood Sugar', options=[
                         "Greater Than 120 mg/dl", "Less Than 120 mg/dl"], index=0)
 
-                predict_button = st.form_submit_button("Predict 🚀")
+                predict_button = st.form_submit_button("Predict ")
 
         with col2:
             if predict_button:
