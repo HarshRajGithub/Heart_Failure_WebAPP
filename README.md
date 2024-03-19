@@ -1,9 +1,14 @@
 # Heart Failure Prediction Using LSTM, Random Forest & Streamlit Web App 💔🩺
 ♥ Used LSTM model to Identify the Type of Chest Pain in Patient From -
+
    ❊ ATA: Atypical Angina 
+   
    ❊ NAP: Non-Anginal Pain 
+   
    ❊ ASY: Asymptomatic 
+   
    ❊ TA: Typical Angina
+   
 ♥ Using a Machine Learning Random Forest Classification Model to Predict If The Patient Has Heart Failure or Not From a Features like(Age, Resting Blood Pressure, Cholesterol, Max Heart Rate, Gender, Chest Pain Type, Fasting Blood Sugar, ...)
 
 ### Web App Link: <a href = "https://heart-failure-prediction-8lygyzhmwy3uctejsac3wj.streamlit.app/" style = "color: tomato">Click Here To Visit Streamlit Web App</a>🥰📊
