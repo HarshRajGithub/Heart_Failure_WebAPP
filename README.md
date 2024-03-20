@@ -13,7 +13,7 @@
 
 ### Web App Link: <a href = "https://heartfailurewebapp-tetdvqxbck49ppglb9rnr8.streamlit.app/" style = "color: tomato">Click Here To Visit Streamlit Web App</a>
 
-### Colab Notebook For Main Steps: <a href = "https://colab.research.google.com/drive/1AoB4QzpzuhbVhQoXYT-IpuGqKPWcMGlc" target="_blank" style = "color: tomato">Click Here To Visit Colab Notebbok</a>
+### Colab Notebook For Model : <a href = "https://colab.research.google.com/drive/1AoB4QzpzuhbVhQoXYT-IpuGqKPWcMGlc" target="_blank" style = "color: tomato">Click Here To Visit Colab Notebbok</a>
 
 
 <hr>
